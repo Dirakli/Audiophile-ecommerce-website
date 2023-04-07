@@ -30,6 +30,7 @@ const Button = styled.button`
   font-weight: 700;
   border: none;
   outline: none;
+  text-transform: uppercase;
   font-size: 13px;
   margin-top: 24px;
   line-height: 17.76px;

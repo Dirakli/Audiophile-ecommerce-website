@@ -7,6 +7,8 @@ import Section from './components/Sections'
 import Data from "./data.json"
 import OrangeSection from './components/OrangeSection'
 import SilverSection from './components/SilverSection'
+import AudioGear from './components/AudioGear'
+import Footer from "./components/Footer"
 
 console.log(Data)
 
@@ -20,6 +22,8 @@ function App() {
       <Section />
       <OrangeSection/>
       <SilverSection/>
+      <AudioGear/>
+      <Footer/>
     </MainWrapper>
   )
 }

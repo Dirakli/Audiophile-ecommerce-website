@@ -21,6 +21,7 @@ const Button = styled.button`
   border: none;
   outline: none;
   font-size: 13px;
+  text-transform: uppercase;
   margin-top: 24px;
   line-height: 17.76px;
   letter-spacing: 1px;
